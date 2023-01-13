@@ -1,0 +1,164 @@
+body {
+    font-family: "Trirong", serif;
+    background: linear-gradient(90deg, #857f7f, #ffffff);
+}
+
+/**************************************************************************/
+
+/* HEADER TAB */
+
+.navbar {
+    position: relative;
+    left: 0;
+    top: 0px;
+}
+
+.top {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    z-index: 1;
+}   
+
+li {
+    font-weight: bold;
+}
+
+/**************************************************************************/
+
+/* HOME TAB */
+
+.img {
+    position: absolute;
+    top: 90px;
+    left: 190px;
+    border-radius: 180px;
+    width: 50%;
+}
+
+.new {
+    position: absolute;
+    top: 270px;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+
+h2 {
+    position: absolute;
+    top: 380px;
+    left: 20px;
+    font-weight: bold;
+}
+
+p {
+    position: relative;
+    top: 450px;
+    font-size: 1.5rem;
+}
+
+
+/**************************************************************************/
+
+/* WORKS TAB */
+
+.work {
+    top: 100px;
+    left: 150px;
+    font-size: 3.5rem;
+}
+
+.image1 {
+    top: 300px;
+}
+
+.image2 {
+    top: 500px;
+}
+
+.image6 {
+    top: 700px;
+}
+
+.image4 {
+    top: 900px;
+}
+
+.image5 {
+    top: 1100px;
+}
+
+.pic {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+}
+
+
+
+/**************************************************************************/
+
+
+/* SKILL TAB */
+
+.skill {
+    top: 100px;
+    left: 150px;
+    font-size: 2.5rem;
+}
+
+.image {
+    position: absolute;
+    top: 450px;
+    left: 190px;
+    border-radius: 180px;
+    width: 50%;
+}
+
+.exp {
+    position: absolute;
+    top: 450px;
+}
+
+.expe {
+    position: relative;
+    top: 270px;
+    font-size: 1.5rem;
+}
+
+.list {
+    list-style-type: none;
+    text-indent: -25px;
+    letter-spacing: 3px;
+    line-height: 40px;
+}
+
+
+
+
+
+
+
+/* footer p {
+    position: absolute;
+    bottom: 0; 
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    font-weight: bold;
+    border: 1px solid #c7d8d4;
+    height: 45px;
+    width: 50%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #c7d8d4;
+} */
